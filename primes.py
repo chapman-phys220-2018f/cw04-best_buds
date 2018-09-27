@@ -22,7 +22,7 @@ def eratosthenes(n):
         marker = i * 2
         while marker < n:
             sieve[marker] = False
-             marker += i
+            marker += i
 
     primelist = []
     for i in range(n):
