@@ -1,12 +1,11 @@
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import primes
 
 """primes.py Test Module
-
 Verifies that the implementations for prime number generators are correct.
-
 Here are the primes less than n=200 for completeness:
  2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 
  43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 
@@ -39,7 +38,7 @@ def test_gen_eratosthenes_last():
         p, p2 = p2, next(g)
     assert p == 199
 
-def test_gen_eratosthenes_number()
+def test_gen_eratosthenes_number():
     """Verify the number of primes less than 200.
     """
     g = primes.gen_eratosthenes()
@@ -47,5 +46,3 @@ def test_gen_eratosthenes_number()
     while ps[-1] < 200:
         ps.append(next(g))
     assert len(ps[:-1]) == 46
-
-    
