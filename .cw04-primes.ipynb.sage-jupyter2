@@ -7,4 +7,4 @@
 {"type":"cell","id":"a61d43","pos":2,"input":"## Generating Prime Numbers\nThis generator continues to yield prime numbers until the program has been stopped. The script itself is identical to eratosthenes although slight differences allow the system to run (almost) indefinitely. It is hard to say whether this is more efficient because it is now used in different ways than the original program. The generator, although better at generating very a large count of prime numbers at a time, does not have the precision that the original eratosthenes has because there is no user input.","cell_type":"markdown"}
 {"type":"cell","id":"d77857","pos":3,"input":"## Benchmarking Implementations","cell_type":"markdown"}
 {"type":"file","last_load":1538022975243}
-{"type":"settings","backend_state":"running","trust":true,"kernel":"anaconda5","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":76513280}}
+{"type":"settings","backend_state":"running","trust":true,"kernel":"anaconda5","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":76509184}}
