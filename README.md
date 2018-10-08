@@ -25,10 +25,9 @@ Complete the following exercises, saving your solutions in the indicated files. 
 1. After your notebook is complete, spell-checked, and formatted properly, add and commit it to GitHub. (Note that managing conflicts with Jupyter notebooks can be a pain, so I recommend having one person from your group be the official notebook editor, and having others in your group write code for the python modules. This is called delegating tasks within your team.)
 
 ## Assessment
+This assignment was very frustrating but satisfying once finished. It was hard to figure out each and every section of the code since there were so many parts to it. Made us feel a little dumb because it was alot simpler than we were making it out to be. But everyone is doing well now. Got lots of help from Dr. Dressel yesterday night at Keck and we are feeling well!!
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+**BestBuds**
 
 ## Honor Pledge
 
